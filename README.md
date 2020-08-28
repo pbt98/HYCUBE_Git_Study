@@ -1,2 +1,7 @@
-# HYCUBE_Git_Study
-For study
+# HYCUBE Git Study
+
+please write your name below.
+
+|Name|Grade|
+|---------|------------|
+|박성빈|3학년|
