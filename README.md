@@ -10,3 +10,4 @@ please write your name below.
 |백승우|2학년|
 |정유진|1학년|
 |구민재|1학년|
+|박지후|2학년|
