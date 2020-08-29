@@ -8,3 +8,4 @@ please write your name below.
 |박성우|5학년|
 |백승우|2학년|
 |정유진|1학년|
+|구민재|1학년|
